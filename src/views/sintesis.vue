@@ -3,8 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+      .col-lg-1.col-2.px-0.img03
+        img.w-75(src="@/assets/curso/temas/img01.svg")
+      .col-lg-9.col-10.px-0.BGR05.p-3
+        p.mb-0.ms-5 Según lo socializado en este proceso de formación donde aprendimos sobre los equipos, materias primas y demás información para la producción del chocolate, resumimos a través de esta síntesis lo que abarca este proceso:
 
     .row.justify-content-center
       .col-lg-10.mb-5

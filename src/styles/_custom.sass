@@ -1,19 +1,222 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
+    position: absolute
+    top: 72%
+    left: 17%
+    width: 18%
+  &-2
+    animation: float1 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    left: -2%
+    width: 18%
+  &-3
+    animation: float2 6.5s ease-in-out infinite alternate
+    position: absolute
+    top: 28%
+    left: -5%
+    width: 16%
+  &-4
+    animation: float1 4.0s ease-in-out infinite alternate
+    position: absolute
+    top: 18%
+    right: 20%
+    width: 18%
+  &-5
+    animation: float2 6.0s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    right: 7%
+    width: 25%
+  &-6
+    animation: float1 7.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 65%
+    right: 45%
+    width: 16%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+  
+.banner-principal__row .banner-principal__img
+  width: 32%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BGIMG07
+  background-image: url("../assets/curso/fondos/img07.png")
+
+.BGIMG08
+  background-image: url("../assets/curso/fondos/img08.png")
+
+.BGIMG09
+  background-image: url("../assets/curso/fondos/img09.png")
+
+.BGIMG11
+  background-image: url("../assets/curso/fondos/img11.png")
+
+.BGIMG12
+  background-image: url("../assets/curso/fondos/img12.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06, .BGIMG07, .BGIMG08, .BGIMG09, .BGR07.acordion__activo, .BGIMG11, .BGIMG12
+  background-size: 100% 100% 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG08, .BGIMG09, .BGIMG11
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.BG01, .BGR01A, .BGR01B, .modal-a--abierto .modal-a__content
+  background-color: #FFECDE
+
+.BG02
+  background-color: #FEE9B5
+
+.BGR03A
+  background-color: #F7E6BB
+
+.BGR04
+  background-color: #3A1C12
+
+.BG05, .BGR05
+  background-color: #FFF6DF
+
+.BGR06
+  background-color: #FED2B2
+
+.BGR07
+  background-color: #E1DDDB
+
+.BGR07.acordion__activo
+  background-color: transparent
+  background-image: url("../assets/curso/fondos/img10.png")
+
+.BGR01A, .BGR01B, .BGR03A, .BGR05, .BGR06, .BGR07
+  border-radius: 10px
+
+.BGR01A
+  height: 416px
+  @media (max-width: $bp-max-xl)
+    height: 400px
+  @media (max-width: $bp-max-lg)
+    height: 408px
+  @media (max-width: $bp-max-md)
+    height: 426px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.BGR01B
+  height: 590px
+  @media (max-width: $bp-max-xl)
+    height: 622px
+  @media (max-width: $bp-max-md)
+    height: 600px
+  @media (max-width: $bp-max-sm)
+    height: initial
+
+.BGR03A
+  height: 208px
+  @media (max-width: $bp-max-xl)
+    height: 216px
+  @media (max-width: $bp-max-lg)
+    height: 211px
+  @media (max-width: $bp-max-md)
+    height: 226px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.img01
+  position: relative
+  width: 70%
+  margin-left: 30%
+
+.img02
+  position: relative
+  left: -3%
+
+.img03
+  position: relative
+  left: 5%
+
+.slyder-a__bullets__item--active, .acordion__accion__btn--b
+  background-color: #FD7F23 !important
+
+.slyder-a__bullets__item
+  background-color:#85A3BC
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FD7F23
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.fa-chevron-right:before, .fa-chevron-left:before
+  color: #FD7F23
+  
+.tarjetas-up
+  overflow: hidden
+  border-radius: 10px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 10px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -80%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      bottom: -40%
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+    
+.text-secundario
+  color: #FCC02D
+
+.text-primario
+  color: #7D5F54
+
+.text-acento-contenido
+  color: #3A1C12
