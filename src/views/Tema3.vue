@@ -22,28 +22,28 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Chocolate negro
-              p.mb-0 Es el chocolate propiamente dicho, resultado de la mezcla de la pasta y manteca de cacao con azúcar, sin añadir otro producto (excepto el emulsionante y posiblemente un saborizante). Las proporciones en que se elabora dependen del fabricante y muchas veces en el empaque se declara el 40% de componentes de cacao. Lo demás es principalmente azúcar.
+              p Es el chocolate propiamente dicho, resultado de la mezcla de la pasta y manteca de cacao con azúcar, sin añadir otro producto (excepto el emulsionante y posiblemente un saborizante). Las proporciones en que se elabora dependen del fabricante y muchas veces en el empaque se declara el 40% de componentes de cacao. Lo demás es principalmente azúcar.
+              p.mb-0 El chocolate negro con alto contenido de cacao tiende a ser muy amargo, al menos que se haya elaborado con cacao fino o de semilla blanca.
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img02.png")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Chocolate con leche
-              p El chocolate negro con alto contenido de cacao tiende a ser muy amargo, al menos que se haya elaborado con cacao fino o de semilla blanca.
-              p.mb-0 Es básicamente un dulce, por lo que la proporción de pasta de cacao normalmente está por debajo del 40 %. 
+              p Es básicamente un dulce, por lo que la proporción de pasta de cacao normalmente está por debajo del 40 %. 
+              p.mb-0 Como su nombre lo indica, lleva leche en polvo añadida, por lo que su color es más claro. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img03.png")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Cobertura de chocolate
-              p Como su nombre lo indica, lleva leche en polvo añadida, por lo que su color es más claro. 
-              p.mb-0 Es el chocolate que utilizan los chocolateros y los pasteleros como materia prima o se usa para cubrir frutas u otros alimentos congelados; puede ser negro o en leche. 
+              p Es el chocolate que utilizan los chocolateros y los pasteleros como materia prima o se usa para cubrir frutas u otros alimentos congelados; puede ser negro o en leche. 
+              p.mb-0 Normalmente tiene agregado manteca de cacao a su fórmula en función del uso. La manteca u otros tipos de grasas vegetales dan más fluidez en caliente y mayor brillo al enfriar. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img04.png")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Chocolate blanco
-              p Normalmente tiene agregado manteca de cacao a su fórmula en función del uso. La manteca u otros tipos de grasas vegetales dan más fluidez en caliente y mayor brillo al enfriar. 
-              p.mb-0 Se elabora con manteca de cacao (por lo menos el 20 %), leche en polvo y azúcar. Estrictamente hablando no es chocolate.
+              p Se elabora con manteca de cacao (por lo menos el 20 %), leche en polvo y azúcar. Estrictamente hablando no es chocolate.
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img05.png")
       

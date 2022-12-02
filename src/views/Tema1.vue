@@ -13,7 +13,7 @@
           p En el proceso productivo del cacao, el producto final y el más conocido es el chocolate, este se obtiene de una mezcla entre la masa y la manteca de cacao, tiene gran variedad de presentaciones, la más conocidas son la de tabletas, bombones y pastillas.
           p Otro producto que nace del cacao son las chocolatinas, su masa pasa por diferentes fases hasta llegar a ser empacadas en las presentaciones que conocemos, existen las blancas que son a base de leche y las negras que son endulzadas con azúcar. 
           .h5 Siguiendo con el chocolate, se afirma que su calidad se evidencia en su sabor y olor, y que esta depende del proceso de fermentación. 
-          p.mb-0 Es así como a través del siguiente vídeo, veremos cuáles son los chocolates más comunes en la industria: 
+          p.mb-0 Es así como a través del siguiente video, veremos cuáles son los chocolates más comunes en la industria: 
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema1/img01.png")
 

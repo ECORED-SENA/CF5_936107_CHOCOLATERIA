@@ -112,10 +112,6 @@
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Utilización
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (%)
                     td(style="background-color: #FFF;").text-center 74,52
-                  tr
-                    td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center texto01
-                    td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center texto02
-                    td(style="background-color: #FFF6DF;").text-center texto03
             .col-lg-11
               .row.justify-content-around.align-items-center
                 .col-lg-1.col-sm-2.col-3

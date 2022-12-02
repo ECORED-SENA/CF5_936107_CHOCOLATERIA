@@ -279,30 +279,31 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Responsable equipo desarrollo curricular',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
         nombre: 'Abel Gordillo Peña',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
       },
       {
         nombre: 'Zvi Daniel Grosman Landáez',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Asesor Metodológico',
+        cargo: 'Asesor metodológico',
         centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable Equipo Desarrollo Curricular',
-        centro:
-          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-      },
+
       {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Corrector de Estilo',
+        cargo: 'Corrector de estilo',
         centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
