@@ -32,7 +32,7 @@
         p El cultivo de cacao es de gran importancia económica, social y ambiental en nuestro país, siendo este una especie agroforestal importante en muchas regiones colombianas.
         p Su transformación agroindustrial consta de varias fases o etapas y en cada una se van generando diferentes productos o subproductos. Actualmente, su almendra es utilizada para la industria alimenticia donde la fabricación de chocolate es la más relevante; pero también es usada últimamente en la industria farmacéutica y cosmetológica.
         .BG01.p-4
-          p.mb-0 Es importante resaltar que la calidad del chocolate depende directamente de las almendras de cacao utilizado en el proceso de transformación, también del proceso de secado y fermentación y de las cualidades de la mezcla que se utilizó en las etapas de procesamiento.
+          .h5.mb-0 Es importante resaltar que la calidad del chocolate <span style="color:#FD7F23">depende directamente de las almendras de cacao utilizado en el proceso de transformación,</span> también del proceso de secado y fermentación y de las cualidades de la mezcla que se utilizó en las etapas de procesamiento.
 
     p Respecto a sus aspectos nutricionales, se puede afirmar que este producto contiene grasas, carbohidratos y proteínas, tres componentes importantes para la obtención de energía del organismo, además contiene vitamina A, B, minerales, calcio, fósforo, hierro, magnesio y teobromina que ayuda en la circulación sanguínea.
 
