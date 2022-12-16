@@ -133,7 +133,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Molino Industrial
-              p.mb-0 #[b Funcionalidad]: es un equipo para la molienda de los nibs de cacao, estos los procesa en pasta. Es importante obtener la pasta de cacao para continuar con los procesos de refinado del chocolate o para la extracción de manteca de cacao.
+              p.mb-0 #[b Funcionalidad]: es un equipo para la molienda de los #[em nibs] de cacao, estos los procesa en pasta. Es importante obtener la pasta de cacao para continuar con los procesos de refinado del chocolate o para la extracción de manteca de cacao.
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema3/img17.jpg' alt='AvatarTop')
           .row.justify-content-center.align-items-center

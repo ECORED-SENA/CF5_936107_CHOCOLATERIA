@@ -264,7 +264,7 @@ export default {
     },
     {
       referencia:
-        'NTC 1252:2021. Cacao e grano. Especificaciones y requisitos de calidad.',
+        'NTC 1252:2021. Cacao en grano. Especificaciones y requisitos de calidad.',
       link:
         'https://tienda.icontec.org/gp-cacao-en-grano-especificaciones-y-requisitos-de-calidad-ntc1252-2021.html',
     },

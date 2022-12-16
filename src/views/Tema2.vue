@@ -183,7 +183,7 @@
                     td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF6DF;").text-center 250
                   tr
-                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cacao
+                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real del licor
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF;").text-center 220
                   tr
@@ -227,7 +227,7 @@
                     td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF6DF;").text-center 828
                   tr
-                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cacao
+                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de mezcla
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF;").text-center 621
                   tr
@@ -275,7 +275,7 @@
                     td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF6DF;").text-center 855
                   tr
-                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cacao
+                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de mezcla
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF;").text-center 720
                   tr
@@ -317,7 +317,7 @@
                     td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF6DF;").text-center 500
                   tr
-                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cacao
+                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de mezcla
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF;").text-center 495
                   tr
@@ -359,7 +359,7 @@
                     td(style="background-color: #FFF6DF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF6DF;").text-center 1140
                   tr
-                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cacao
+                    td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center Producción real de cajas
                     td(style="background-color: #FFF; border-right: 2px solid #FCC02D").text-center (Kg/h)
                     td(style="background-color: #FFF;").text-center 1025
                   tr

@@ -79,7 +79,7 @@
           .h4.text-center.text-acento-contenido Negro amargo
           p Fundir el chocolate a 45-50°C. 
           p Atemperar con raspa 2/3 del chocolate sobre plancha de mármol hasta una temperatura de 27-28°C. 
-          p.mb-0 El chocolate enfriado se mezcla luego enérgicamente con el chocolate caliente restante para obtener una temperatura final de trabajo 30-32.
+          p.mb-0 El chocolate enfriado se mezcla luego enérgicamente con el chocolate caliente restante para obtener una temperatura final de trabajo 30-32°C.
       .col-lg-3.col-md-6.col-10.mb-xl-0.mb-4
         .BGR01B.p-3
           figure.mb-4
